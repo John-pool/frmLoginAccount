@@ -1,0 +1,10 @@
+C:\Users\Kambal\source\repos\frmLoginAccount\frmLoginAccount\bin\Debug\frmLoginAccount.exe.config
+C:\Users\Kambal\source\repos\frmLoginAccount\frmLoginAccount\bin\Debug\frmLoginAccount.exe
+C:\Users\Kambal\source\repos\frmLoginAccount\frmLoginAccount\bin\Debug\frmLoginAccount.pdb
+C:\Users\Kambal\source\repos\frmLoginAccount\frmLoginAccount\obj\Debug\frmLoginAccount.csproj.AssemblyReference.cache
+C:\Users\Kambal\source\repos\frmLoginAccount\frmLoginAccount\obj\Debug\frmLoginAccount.Form1.resources
+C:\Users\Kambal\source\repos\frmLoginAccount\frmLoginAccount\obj\Debug\frmLoginAccount.Properties.Resources.resources
+C:\Users\Kambal\source\repos\frmLoginAccount\frmLoginAccount\obj\Debug\frmLoginAccount.csproj.GenerateResource.cache
+C:\Users\Kambal\source\repos\frmLoginAccount\frmLoginAccount\obj\Debug\frmLoginAccount.csproj.CoreCompileInputs.cache
+C:\Users\Kambal\source\repos\frmLoginAccount\frmLoginAccount\obj\Debug\frmLoginAccount.exe
+C:\Users\Kambal\source\repos\frmLoginAccount\frmLoginAccount\obj\Debug\frmLoginAccount.pdb
